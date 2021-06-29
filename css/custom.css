@@ -1,4 +1,9 @@
 
+.container{
+    width: 90%;
+}
+
+
 html{
     font-family: 'Times New Roman', Times, serif;
 }
