@@ -12,3 +12,8 @@ $(document).ready(function () {
 $(document).ready(function(){
   $('.sidenav').sidenav();
 });
+
+//carrossel
+$(document).ready(function(){
+  $('.carousel').carousel();
+});
