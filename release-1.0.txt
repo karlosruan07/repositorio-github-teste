@@ -1,0 +1,1 @@
+Nesta versão, está inclusa o componente de preloader.
